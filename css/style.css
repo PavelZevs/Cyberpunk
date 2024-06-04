@@ -321,7 +321,7 @@ ul {
 .HP_container {
   display: flex;
   padding-top: 70px;
-  justify-content: space-between;
+  justify-content: center;
   flex-wrap: wrap;
 }
 
